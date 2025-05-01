@@ -1,0 +1,14 @@
+{
+    "name": "C Project",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+        "C_Cpp.default.intelliSenseMode": "gcc-x64"
+    },
+    "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools"
+    ],
+    "postCreateCommand": "make"
+}
