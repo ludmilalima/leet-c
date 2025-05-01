@@ -1,22 +1,6 @@
 # My C Project
 
-This project is a simple C application that demonstrates the use of a development container for building and running C programs. 
-
-## Project Structure
-
-```
-my-c-project
-├── .devcontainer
-│   ├── devcontainer.json
-│   └── Dockerfile
-├── src
-│   ├── main.c
-│   └── utils.c
-├── include
-│   └── utils.h
-├── Makefile
-└── README.md
-```
+This project is a simple C application that I use to leetcode.
 
 ## Getting Started
 
