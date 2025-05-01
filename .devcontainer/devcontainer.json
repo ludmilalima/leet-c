@@ -13,9 +13,11 @@
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {
+			// No specific settings required at the moment
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
+				"streetsidesoftware.code-spell-checker",
+				"ms-vscode.cpptools-extension-pack"
 			]
 		}
 	}
