@@ -14,7 +14,9 @@
 		// Configure properties specific to VS Code.
 		"vscode": {
 			// No specific settings required at the moment
-			"settings": {},
+			"settings": {
+				"terminal.integrated.defaultProfile.linux": "bash"
+			},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-vscode.cpptools-extension-pack"
